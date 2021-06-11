@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// You can improve the design of the creadit card view here.
+
 struct CreditCardView: View {
     
     let card: CreditCard
